@@ -5,8 +5,6 @@ import com.csaba79coder.calculator.model.Calculator;
 import com.csaba79coder.calculator.view.CalculatorFrame;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
