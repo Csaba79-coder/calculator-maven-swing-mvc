@@ -1,4 +1,4 @@
-package com.csaba79coder.calculator;
+package com.csaba79coder;
 
 import com.csaba79coder.calculator.controller.CalculatorController;
 import com.csaba79coder.calculator.model.Calculator;
@@ -62,7 +62,7 @@ public class CalculatorApplication {
      *
      * @param args Command line arguments (not used)
      */
-    static void main(String[] args) {
+    public static void main(String[] args) {
         // Set system look and feel for better native appearance
         // This makes the calculator look native on Windows, macOS, and Linux
         try {
