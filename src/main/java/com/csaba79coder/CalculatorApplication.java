@@ -11,7 +11,7 @@ import javax.swing.*;
  *
  * This calculator application demonstrates professional Java development practices:
  *
- * ARCHITECTURE & DESIGN:
+ * ARCHITECTURE AND DESIGN:
  * ✅ MVC Pattern - Clean separation of Model, View, and Controller
  * ✅ Professional Code - JavaDoc, clean code principles, SOLID principles
  * ✅ English Naming Conventions - All code follows Java naming standards
