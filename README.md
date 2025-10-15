@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=java)
 ![Maven](https://img.shields.io/badge/Maven-3.9+-red?style=for-the-badge&logo=apache-maven)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-5.10-green?style=for-the-badge&logo=junit5)
@@ -95,7 +95,7 @@ Modern Swing Calculator is a professional-grade calculator application built wit
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
-| **Java** | 21 | Programming language |
+| **Java** | 25 | Programming language |
 | **Maven** | 3.9+ | Build automation |
 | **Swing** | Built-in | GUI framework |
 | **JUnit 5** | 5.10.0 | Unit testing |
@@ -139,7 +139,7 @@ calculator-maven-swing-mvc/
 
 ### Prerequisites
 
-- **Java Development Kit (JDK) 21** or higher
+- **Java Development Kit (JDK) 25** or higher
 - **Apache Maven 3.9+**
 - **Git** (optional, for cloning)
 
@@ -286,8 +286,8 @@ The project uses the following Maven plugins:
 ### Java Version
 ```xml
 <properties>
-    <maven.compiler.source>21</maven.compiler.source>
-    <maven.compiler.target>21</maven.compiler.target>
+    <maven.compiler.source>25</maven.compiler.source>
+    <maven.compiler.target>25</maven.compiler.target>
 </properties>
 ```
 
